@@ -5,7 +5,7 @@
 ## Latar Belakang
 
 > Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
-
+    Bekerja dekat dengan tim IT membuat saya tertarik terhadap coding dan bahasa pemrograman, dari sinilah ketertarikan saya bermula. Berkat teman-teman, lingkungan, dan keluarga yang sangat mendukung, saya disarankan untuk lebih mendalami ilmu pemrograman ini dan mengambil jalur karir disana, ditambah lagi pengalaman dan pengetahuan saya di HR, tenaga kerja di bidang teknologi sekarang juga sedang dibutuhkan dimana-mana, jadi saya merasa ini adalah waktu yang sangat tepat untuk belajar sekaligus menambahkan keahlian untuk diri saya sendiri.
 ## Motivasi
 
 > Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
