@@ -13,3 +13,4 @@
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
+    Sayang banget bootcampnya masih remote, kayanya bakal lebih seru dan efektif kalau ada tatap muka langsung kayak kuliah gitu, atleast untuk saya, belajar langsung tatap muka sih lebih masuk materinya. Mungkin bagi kelompok atau sama buddynya janjian belajar bareng di coworking space bisa banget sih. Semoga suatu saat ada gathering offline buat satu atau dua sesi lecturenya. Soalnya selain belajar bareng, nambah relasi dan connection pasti bermanfaat nih dikemudian hari. Tapi, tetap semangat untuk menjalankan bootcamp karena materi dan instrukturnya mantap-mantap, goodluck untuk kita semua!
