@@ -9,7 +9,7 @@
 ## Motivasi
 
 > Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
-
+    Untuk apa yang saya ingin dapatkan tentunya adalah keahlian pemrograman yang dijanjikan, serta pengetahuan dan pengalaman untuk mendukung skill tersebut untuk dibawa ke jenjang karir. Untuk hal yang ingin dicapai adalah bisa kubagi jadi dua, yaitu capaian jangka pendek dan jangka panjang, untuk jangka pendek saya ingin segera mendapatkan pekerjaan yang stabil, saya ingin masuk kembali ke startup seperti tempat kerja saya dulu, karena saya merasa mereka memperlakukan pekerjanya secara layak dan adil. Kemudian, untuk capaian jangka panjang, setelah saya memiliki pengalaman dan modal yang cukup, saya ingin mencoba membuat perusahaan berbasis teknologi bersama teman-teman dan keluarga.
 ## Ekspektasi
 
 > Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya
